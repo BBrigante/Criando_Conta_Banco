@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\bin\Debug\net7.0\CriandoClassesEObjetos.exe
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\bin\Debug\net7.0\CriandoClassesEObjetos.deps.json
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\bin\Debug\net7.0\CriandoClassesEObjetos.runtimeconfig.json
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\bin\Debug\net7.0\CriandoClassesEObjetos.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\bin\Debug\net7.0\CriandoClassesEObjetos.pdb
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\CriandoClassesEObjetos.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\CriandoClassesEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\CriandoClassesEObjetos.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\CriandoClassesEObjetos.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\CriandoClassesEObjetos.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\CriandoClassesEObjetos.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\refint\CriandoClassesEObjetos.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\CriandoClassesEObjetos.pdb
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\CriandoClassesEObjetos.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\CriandoClassesEObjetos\obj\Debug\net7.0\ref\CriandoClassesEObjetos.dll
